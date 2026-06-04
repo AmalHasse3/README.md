@@ -1,4 +1,3 @@
-
 ---
 
 # 👩🏽‍💻 About Me
@@ -115,7 +114,7 @@ My experiences taught me resilience, adaptability, optimism, empathy, and the im
 
 * LinkedIn: https://linkedin.com/in/amalhasse5
 * GitHub: https://github.com/amalhasse3
-* Portfolio: https://amalhassen.com
+* Portfolio: https://www.amalhassen.com
 * Email: [amalhassen991@gmail.com](mailto:amalhassen991@gmail.com)
 
 ---
